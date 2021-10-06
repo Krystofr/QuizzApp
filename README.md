@@ -28,7 +28,7 @@ Looking to contribute something to Clink? [Here's how you can help](/Contributin
 # License:
 The MIT License (MIT)
 
-Copyright (c) 2020 GeraudLuku
+Copyright (c) 2020 Christopher Nanju
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
